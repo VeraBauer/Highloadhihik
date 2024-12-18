@@ -9,6 +9,7 @@
 		  <Sources>
 			  <Exclude>
 				  <Source>.*Api.*</Source>
+          <Source>.*Programm\.cs*</Source>
 			  </Exclude>
 			</Sources>
 		  </CodeCoverage>
@@ -17,4 +18,3 @@
     </DataCollectors>
   </DataCollectionRunSettings>
 </RunSettings>
-
